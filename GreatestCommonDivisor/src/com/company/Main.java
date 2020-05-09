@@ -25,7 +25,6 @@ public class Main {
         if (first < 10  || second < 10){
             getGreatestCommonDivisor = -1;
         } else {
-            getGreatestCommonDivisor = 1;
             if (first > second) {
                 a = first;
                 b = second;
