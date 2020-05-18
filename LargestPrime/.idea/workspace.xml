@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a1c14e3-53ff-4abd-ba9c-e6da26017e04" name="Default Changelist" comment="" />
+    <list default="true" id="9a1c14e3-53ff-4abd-ba9c-e6da26017e04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +19,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PlayingCat" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -51,9 +55,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586444568769">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1589837205778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1600.-180.1600.1160@0.0.1366.728" timestamp="1589837205778" />
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586444568769" />
     <state width="1292" height="600" key="GridCell.Tab.0.bottom" timestamp="1586643468931">
       <screen x="0" y="0" width="1366" height="728" />
