@@ -1,5 +1,6 @@
 package de.dumbuya;
-
+// This program demonstrates the concept of composition.
+//The example of a computer is used.
 public class Main {
 
     public static void main(String[] args) {
