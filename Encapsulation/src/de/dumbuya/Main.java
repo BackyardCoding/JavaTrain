@@ -10,13 +10,21 @@ package de.dumbuya;
 public class Main {
 
     public static void main(String[] args) {
+        //Printer 1
+        System.out.println("Printer 1:");
         Printer printer = new Printer(50,0,false);
-        //System.out.println("Duplex: " + printer.isDuplex());
-        printer.printPage(3);
+        printer.printPage(2);
+        System.out.println("Pages printed in total: " + printer.getPagesPrinted());
+        printer.printPage(4);
+        System.out.println("Pages printed in total: " + printer.getPagesPrinted());
+        System.out.println();
+        //Printer duplex
+        Printer printerD = new Printer(50,0,true);
+        printerD.printPage(2);
+        System.out.println("Pages printed in total: " + printerD.getPagesPrinted());
+        printerD.printPage(4);
+        System.out.println("Pages printed in total: " + printerD.getPagesPrinted());
 
-        Printer printerS = new Printer(50,0,true);
-        //System.out.println("Duplex: " + printerS.isDuplex());
-        printerS.printPage(3);
     }
 
 }

@@ -30,7 +30,7 @@ public class Printer {
         if (pages == 1) {
             System.out.println("A page is printed.");
         } else {
-            System.out.println(pagesPrinted + " pages are printed.");
+            System.out.println(this.pagesPrinted + " pages are printed.");
         }
         return pagesToPrint;
     }
@@ -41,5 +41,9 @@ public class Printer {
 
     public boolean isDuplex() {
         return duplex;
+    }
+
+    public int getPagesPrinted() {
+        return pagesPrinted;
     }
 }
