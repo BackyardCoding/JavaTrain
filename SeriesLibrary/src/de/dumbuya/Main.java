@@ -9,8 +9,17 @@ and fibonacci math operations.
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(Series.nSum(4));
-        System.out.println(Series.factorial(4));
-        System.out.println(Series.fibonacci(4));
+        System.out.println("nSum");
+        for (int i = 0; i <= 10; i++) {
+            System.out.println(Series.nSum(i));
+        }
+        System.out.println("\nFactorial");
+        for (int i = 0; i <= 10; i++) {
+            System.out.println(Series.factorial(i));
+        }
+        System.out.println("\nFibonacci");
+        for (int i = 0; i <= 10; i++) {
+            System.out.println(Series.fibonacci(i));
+        }
     }
 }
