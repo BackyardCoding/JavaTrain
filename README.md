@@ -1,5 +1,5 @@
 # JavaTrain
-This repository demonstrates the Java Skills of MDumbuya. The development of this project has slowed down. But it will continue no later than Fall 2020. 
+This repository demonstrates the Java Skills of mdumbuya. 
 
 ## Description 
 The depicted code of the repository was developed as part of the Udemy Course _Java Programming Masterclass_. 
