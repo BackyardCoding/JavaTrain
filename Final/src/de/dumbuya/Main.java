@@ -1,6 +1,6 @@
 package de.dumbuya;
 // This program demonstrates the use of the final keyword by the example of a login/password/decrypt solution
-// Furthermore it demonstrates the use the ssssstatic keyword.
+// Furthermore it demonstrates the use the static keyword.
 public class Main {
 
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class Main {
         System.out.println(three.getInstanceNumber());
 
         int pw = 341243;
-        Password password = new ExtendedPassword(pw);
+        Password password = new Password(pw);
         password.storePassword();
         password.letMeIn(1);
         password.letMeIn(9234);
