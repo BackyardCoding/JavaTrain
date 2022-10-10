@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Bettina</first_name>
+	<last_name>Dumbuya</last_name>
+	<phone_number>4935885</phone_number>
+	<notes>Mother</notes>
+</contact>
+<contact>
+	<first_name>Peter</first_name>
+	<last_name>Pan</last_name>
+	<phone_number>23456456</phone_number>
+	<notes>123456</notes>
+</contact>
+<contact>
+	<first_name>Benny</first_name>
+	<last_name>Dumbuya</last_name>
+	<phone_number>94543545</phone_number>
+	<notes>Brother</notes>
+</contact>
+</contacts>
