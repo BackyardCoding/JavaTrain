@@ -1,5 +1,5 @@
 # JavaTrain
-This repository demonstrates the Java Skills
+This repository demonstrates the Java Skills of BackyardCoding
 
 ## Description 
 The depicted code of the repository was developed as part of the Udemy Course _Java Programming Masterclass_. 
